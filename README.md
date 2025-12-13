@@ -1,8 +1,11 @@
 <h1 align="center"> Hi, I’m Luv Goel 👋</h1>
 
 <h1 align="center"> 
+ 
  <a href="https://www.github.com/Theluvgoel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Theluvgoel?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
+<a> <img src="https://komarev.com/ghpvc/?username=theluvgoel&label=Profile%20views&color=0e75b6&style=for-the-badge" /> </a>
+
 <div align="center">
 <a href="https://github.com/Theluvgoel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
