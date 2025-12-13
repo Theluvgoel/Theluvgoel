@@ -1,6 +1,15 @@
 #  Hi, I’m Luv Goel 👋
+
+<p align="center">
+  <a href="https://github.com/yourname"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+  <a href="https://kaggle.com/yourname"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-green?logo=google-chrome"></a>
+</p>
+
 💫About Me:
 I am a passionate learner and aspiring professional in the field of **Data Science and Machine Learning**, focused on building practical, data-driven solutions.<br><br>- 🔍 Interested in AI, Data Science, Machine Learning, , and Analytics<br>- 🧠 Strong foundation in Python, Machine Learning algorithms, data preprocessing, and model evaluation<br>- 🤝 Open to learning opportunities, internships, and collaborative projects<br>- 📚 Continuously improving my skills through projects, coursework, and self-learning<br>- 📧 Reach me at theluvgoel@gmail.com<br>
+
 
 
 ## 🌐 Socials:
