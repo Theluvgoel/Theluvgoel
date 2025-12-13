@@ -1,4 +1,4 @@
-#  Hi, I’m Luv Goel 👋
+<h1 align="center"> Hi, I’m Luv Goel 👋</h1>
 
 <h1 align="center"> 
  <a href="https://www.github.com/Theluvgoel" target="_blank" rel="noreferrer"><img
