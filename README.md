@@ -1,11 +1,31 @@
 #  Hi, I’m Luv Goel 👋
 
-<p align="center">
-  <a href="https://github.com/yourname"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-  <a href="https://kaggle.com/yourname"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-green?logo=google-chrome"></a>
-</p>
+<h1 align="center"> 
+ <a href="https://www.github.com/Theluvgoel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Theluvgoel?logo=github&style=for-the-badge&color=64748b&labelColor=000000" /></a>
+<div align="center">
+<a href="https://github.com/Theluvgoel" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/luvgoel/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/luvgoel17" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+ <a href="https://www.datascienceportfol.io/theluvgoel" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%56B900.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/32046723/luv-goel" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+<a href="https://medium.com/@theluvgoel" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+</h1>
+
 
 💫About Me:
 I am a passionate learner and aspiring professional in the field of **Data Science and Machine Learning**, focused on building practical, data-driven solutions.<br><br>- 🔍 Interested in AI, Data Science, Machine Learning, , and Analytics<br>- 🧠 Strong foundation in Python, Machine Learning algorithms, data preprocessing, and model evaluation<br>- 🤝 Open to learning opportunities, internships, and collaborative projects<br>- 📚 Continuously improving my skills through projects, coursework, and self-learning<br>- 📧 Reach me at theluvgoel@gmail.com<br>
