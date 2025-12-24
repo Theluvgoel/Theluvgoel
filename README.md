@@ -1,4 +1,8 @@
-<h1 align="center"> Hi, I’m Luv Goel 👋</h1>
+<h1 align="center"> Hello, World! 👋</h1>
+
+<p align="center">
+<img src="https://github.com/Theluvgoel/Theluvgoel/blob/main/Luv%20Goel.gif" />
+</p>
 
 <h1 align="center"> 
  
